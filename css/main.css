@@ -1,0 +1,22 @@
+.header{
+    background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2)), url(../6a134553-eacf-47b3-9da7-1d3e661fd5da.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+
+.btn:hover{
+    background-color: #ffafcc;
+}
+
+.contanier {
+    color:white;
+}
+
+.btn{
+    background-color: purple;
+    color: white;
+
+}
+.style{
+    color: white;
+}
